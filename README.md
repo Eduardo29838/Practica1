@@ -5,4 +5,4 @@ Pasos para subir la practica
 2- source packages clik izquierdo > git > add
 3- source packages clik izquierdo > git > commit
 4- source packages clik izquierdo > git > push
-5- ya estara subido su arvhivo subido
+5- ya estara subido su arvhivo
